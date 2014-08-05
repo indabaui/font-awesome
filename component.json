@@ -2,7 +2,7 @@
   "name": "font-awesome",
   "repo": "indabaui/font-awesome",
   "description": "Font Awesome icon font",
-  "version": "3.0.2",
+  "version": "4.1.0",
   "keywords": [],
   "dependencies": {},
   "development": {},
@@ -10,9 +10,9 @@
     "css/font-awesome.css"
   ],
   "fonts": [
-    "font/fontawesome-webfont.eot",
-    "font/fontawesome-webfont.svg",
-    "font/fontawesome-webfont.ttf",
-    "font/fontawesome-webfont.woff"
+    "fonts/fontawesome-webfont.eot",
+    "fonts/fontawesome-webfont.svg",
+    "fonts/fontawesome-webfont.ttf",
+    "fonts/fontawesome-webfont.woff"
   ]
 }
