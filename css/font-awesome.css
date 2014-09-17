@@ -82,6 +82,7 @@
   -moz-animation: spin 2s infinite linear;
   -o-animation: spin 2s infinite linear;
   animation: spin 2s infinite linear;
+  -webkit-transform: translate3d(0,0,0);
 }
 @-moz-keyframes spin {
   0% {
